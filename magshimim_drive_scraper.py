@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchAttributeException
 
 #Change it to your own username/password.
-USERNAME = ""
-PASSWORD = ""
+USERNAME = "banana9045"
+PASSWORD = "lamalo478"
 
 
 coursesLinks = []
